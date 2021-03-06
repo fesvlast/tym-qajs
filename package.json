@@ -1,0 +1,25 @@
+{
+  "name": "tym-qajs",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fesvlast/tym-qajs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fesvlast/tym-qajs/issues"
+  },
+  "homepage": "https://github.com/fesvlast/tym-qajs#readme",
+  "devDependencies": {
+    "codeceptjs": "^3.0.5",
+    "puppeteer": "^8.0.0",
+    "webdriverio": "^5.23.0"
+  }
+}
